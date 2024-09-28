@@ -16,6 +16,6 @@ From the top of my mind, this is what I am reviewing:
 - Practice safety precaution using noopener and noreferrer
 - Insert image
 
-I may be missing some items here. I will write a self-reflection and include in it whatever I have missed, By discussing what I have learned and practiced, I reinforce my knowledge on applying these basic tools. 
+I may be missing some items here. I will write a self-reflection and include in it whatever I have missed. By discussing what I have learned and practiced, I reinforce my knowledge on applying these basic tools. 
 
 -Geo
